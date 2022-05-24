@@ -4,6 +4,10 @@ export default class Problem {
     name:'zs',
     age:22
   }
+  status={
+    goods:'小王',
+    info:'小王今晚考'
+  }
   // 实例化类自动调用
   constructor() {
     // 获取保存按钮,绑定点击事件
